@@ -171,8 +171,8 @@ class _ProfilePageState extends State<ProfilePage> {
               buildDivider(),
               const SizedBox(height: 20),
               Text(
-                //fix this little mistake haha
-                'Shh bug fix here lol',
+                //placeholder text to get bottom border
+                'Quick Fix',
                 style: TextStyle(
                     fontWeight: FontWeight.normal, color: Colors.transparent),
               ),
