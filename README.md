@@ -7,7 +7,7 @@ This project is a simple flutter application that appears to have the functional
 
 ### Running the Application
 
-## Windows Machine
+# Windows Machine
 
 To run the application on windows, flutter (sdk >=2.18.5 <3.0.0), an IDE (preferably VS Code), and google chrome must first be installed. Follow the steps below to run the project. 
 
@@ -34,7 +34,7 @@ $ flutter run -d chrome --web-renderer html
 ```
 5. To quit out of the project fully: Use ctrl+c
 
-## MacOS
+# MacOS
 
 To run the application on a machine that uses MacOS you must have Xcode, flutter, and commandline tools installed. Android Studio and VS Code may also be used, but I specifically used the macOS terminal to run the project. Follow the instructions below, and if there are any issues with the maching not finding flutter please follow the links provided. 
 
