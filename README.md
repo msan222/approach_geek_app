@@ -23,7 +23,7 @@ $ flutter pub get
 3. Build the project for web:
 
 ```
-$ build web  --web-renderer=html
+$ flutter build web  --web-renderer=html  
 ```
 4. Run the project on chrome (most reliable):
 
