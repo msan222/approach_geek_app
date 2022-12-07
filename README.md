@@ -30,6 +30,6 @@ $ flutter build web  --web-renderer=html
 ```
 $ flutter run -d chrome --web-renderer html
 ```
-5. To quit out of the project fully use ctrl+c
+5. To quit out of the project fully: Use ctrl+c
 
 
