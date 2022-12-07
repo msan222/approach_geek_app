@@ -39,6 +39,7 @@ $ flutter run -d chrome --web-renderer html
 To run the application on a machine that uses MacOS you must have Xcode, flutter, and commandline tools installed. Android Studio and VS Code may also be used, but I specifically used the macOS terminal to run the project. Follow the instructions below, and if there are any issues with the maching not finding flutter please follow the links provided. 
 
 https://docs.flutter.dev/get-started/install/macos#update-your-path
+
 https://docs.flutter.dev/get-started/install/macos
 
 1. Open a MacOS terminal session. 
