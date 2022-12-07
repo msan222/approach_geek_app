@@ -46,18 +46,18 @@ https://docs.flutter.dev/get-started/install/macos
 
 2. If you do not have flutter already installed see the following steps, if you regularly use flutter with your Mac skip to step 3 *(I've included them since I do not use a Mac and it is the process I followed to get a successful run of my project, I recognize other users may have flutter permanently set on their enviroment variables):
  
-  1a. Download the latest version of flutter.
+   1a. Download the latest version of flutter.
   
-  2a. navigate to the folder you are going to clone the project in (ex: Developer) then unzip the flutter download:
+   2a. navigate to the folder you are going to clone the project in (ex: Developer) then unzip the flutter download:
     ```
     $ cd ~/Developer
     $ unzip ~/Downloads/flutter_macos_3.3.9-stable.zip
     ```
-   3a. Add the flutter tool to your path:
+    3a. Add the flutter tool to your path:
    ```
    $ export PATH="$PATH:`pwd`/flutter/bin"
    ```
-   4a. Run flutter doctor to check dependencies and repair as necessary:
+    4a. Run flutter doctor to check dependencies and repair as necessary:
    ```
    $ flutter doctor
    ```
